@@ -16,7 +16,7 @@ h1, h2, h5 {
 }
 
 footer a {
-    color: var(--cor-principal);
+    color: var(--cor-principal)
 }
 
 footer a:hover {
